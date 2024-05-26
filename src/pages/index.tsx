@@ -23,7 +23,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Documentación técnica ${siteConfig.title}`}
+      title={`${siteConfig.title}`}
       description="Documentación técnica - Sistema SAAG">
       <div className={styles.box}>
         <div>
