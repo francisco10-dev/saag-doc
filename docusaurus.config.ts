@@ -5,7 +5,7 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/book_icon.ico',
   organizationName: 'tu-usuario', 
   projectName: 'mi-backend-docs',
   themeConfig: {
