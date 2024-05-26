@@ -1,0 +1,11 @@
+.textDescription{
+    margin-left: 10%;
+    width: 800px;
+}
+
+@media screen and (max-width: 996px) {
+    .textDescription {
+      margin-left: 5%;
+      width: 350px;
+    }
+}
